@@ -3,7 +3,7 @@ Utility-Scripts
 
 Utility Scripts
 
-* imdb.py -- Fetch movie details from IMDB
+* imdb.py -- Fetch movie details from IMDB (Requires BeautifulSoup)
 
 * imdb_rating_appender -- Clean Movies' Folder names and Append IMDB Rating to the name. 
 
